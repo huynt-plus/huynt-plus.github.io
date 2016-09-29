@@ -119,7 +119,7 @@ categories:
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;">The cash flow statement là báo cáo tài chính bắt buộc thứ 3. Nó không nói về những gì công ty có (cái này bảng cân đối tài chính sẽ nói), nó cũng không nói về việc công ty đang hoạt động tốt hay không (cái này income statement sẽ nói).</div>
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;">Nó sẽ chỉ rõ chi tiết về bao nhiêu tiền mặt được thu về và trả đi trong toàn chu kỳ kế toán và cũng chỉ rõ công ty mất bao nhiêu tiền cuối chu kỳ.</div>
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;">Ba bảng tổng hợp tài chính này sẽ nói cho ta rất nhiều điều trong quá trình quản trị và điều hành doanh nghiệp. Các bạn cần trải nghiệm nó mới thấy hết sự thú vị và cần thiết của nó.</div>
-<h3 class="_2cuy _50a1 _2vxa">Một sốchỉ sốtài chính quản trị quan trọng</h3>
+<h3 class="_2cuy _50a1 _2vxa">Một số chỉ số tài chính quản trị quan trọng</h3>
 <div class="_2cuy _3dgx _2vxa"><span class="_5yi-">Current ratio </span><span class="_5yi_">(tài sản ngắn hạn/nợ ngắn hạn)</span></div>
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;">Chí số này trả lời câu hỏi: Bao nhiêu lần chúng ta có thể trả cho những gì chúng ta nợ bằng việc sử dụng các tài sản ngắn hạn (hàng hóa tồn kho, tiền mặt, phải thu khách hàng).</div>
 <div class="_2cuy _3dgx _2vxa"><span class="_5yi-">Quick ratio </span><span class="_5yi_">(tiền mặt + khoản phải thu khách hàng)/(nợ ngắn hạn)</span></div>
