@@ -18,7 +18,7 @@ categories:
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;"><span class="_5yi-">Tăng trưởng</span> (Growth) Một business thành công hay không phụ thuộc vào khả năng sáng tạo, thay đổi và phát triển. Thiếu sự linh hoạt trong thời đại này cũng đồng nghĩa với cát bụi.</div>
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;">Đây là 4 nhân tố chính mà chủ doanh nghiệp và các nhà đầu tư hay quan tâm trong quá trình theo dõi sức khỏe của doanh nghiệp.</div>
 <figure class="_2cuy _4nuy _2vxa">
-<div class="_h2x"><img id="u_1z_0" class="_h2z _297z _usd img" src="https://scontent-nrt1-1.xx.fbcdn.net/t31.0-8/p720x720/14257723_1787589751483645_2756744130144425953_o.jpg" alt="" /></div>
+<div><img src="https://scontent-nrt1-1.xx.fbcdn.net/t31.0-8/p720x720/14257723_1787589751483645_2756744130144425953_o.jpg" alt="" /></div>
 </figure>
 <div class="_2cuy _3dgx _2vxa" style="text-align: justify;"><span class="_5yi-">Tạo dựng các giá trị</span> Nhìn vào hình bên dưới ta có thể hình dung các doanh nghiệp thường cần tập trung tạo ra các giá trị gì cho khách hàng của mình: Tính sáng tạo, chất lượng, dịch vụ, tốc độ/giá cả, độc nhất, tối ưu theo từng khách hàng.</div>
 <div class="_2cuy _3dgx _2vxa"></div>
