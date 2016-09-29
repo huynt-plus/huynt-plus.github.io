@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quản trị tài chính cho một công ty 
+title: Quản trị tài chính cho một công ty Startup
 categories:
 - blog
 ---
