@@ -15,7 +15,7 @@ Có cái phòng bên cạnh sảnh chính mà mãi giờ mới được vô. Bê
 
 {% include image.html url="/images/nghe-thuat-2.JPG" caption="" width=580 align="center" %}
 
-Tiếp đó có chạy qua phòng trưng bày của các bạn ở Bangladesh để chụp hình.
+Tiếp đó có chạy qua phòng trưng bày của các bạn ở Bangladesh, Syria để chụp hình.
 
 {% include image.html url="/images/quan-ao-bangladesh.JPG" caption="Cũng lăn tăng bận đồ của nước họ để chụp. Hehe" width=580 align="center" %}
 
