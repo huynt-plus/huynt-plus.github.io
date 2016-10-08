@@ -9,7 +9,7 @@ categories:
 
 {% include image.html url="/images/quang-canh.JPG" caption="Quang cảnh của Festival, tấm này không được đẹp lắm vì chỉ chụp vu vơ." width=580 align="center" %}
 
-Có cái phòng bên cạnh sảnh chính mà mãi giờ mới được vô. Bên trong trưng bày nhiều món đồ cũng lạ. Mình nghĩ đây là nghệ thuật sắp đặt.
+Có cái phòng bên cạnh sảnh chính mà mãi giờ mới được vô. Bên trong trưng bày nhiều món đồ cũng lạ.
 
 {% include image.html url="/images/nghe-thuat-1.JPG" caption="" width=580 align="center" %}
 
