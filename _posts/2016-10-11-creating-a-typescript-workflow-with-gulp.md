@@ -92,5 +92,5 @@ Create the following files in the typescriptDemo folder:
 	//{
 	//}
 ```
-
-p>. **Dan Wahlin**
+{: .right}
+**Dan Wahlin**
