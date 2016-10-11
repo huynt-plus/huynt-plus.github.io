@@ -41,7 +41,7 @@ Create the following files in the typescriptDemo folder:
 
 2. Open **package.json** and add the following **devDependencies** property into it. The location of the property in the file doesn’t really matter but I normally put it at the bottom.
 
-**Note:** The module versions shown here will certainly change over time. You can visit http://npmjs.org to find the latest version of a given module.
+	**Note:** The module versions shown here will certainly change over time. You can visit http://npmjs.org to find the latest version of a given module.
 
 ```json
 "devDependencies": {
@@ -76,7 +76,7 @@ Create the following files in the typescriptDemo folder:
 
 	**tsd install angular --save**
 
-**Note:** You can install additional type definition files for other JavaScript libraries/frameworks by running the same command but changing the name from “angular” to the appropriate library/framework. See http://definitelytyped.org/tsd for a list of the type definition files that are available.
+	**Note:** You can install additional type definition files for other JavaScript libraries/frameworks by running the same command but changing the name from “angular” to the appropriate library/framework. See http://definitelytyped.org/tsd for a list of the type definition files that are available.
 
 8. Let’s now install the jQuery type definition as well since the Angular type definition file has a dependency on it:
 
@@ -87,5 +87,8 @@ Create the following files in the typescriptDemo folder:
 10. Create a file named **typescriptApp.d.ts** in the **typescriptDemo/tools/typings** folder. This file will track all of the TypeScript files within the application to simplify the process of resolving dependencies and compiling TypeScript to JavaScript.
 
 11. Add the following into the **typescriptApp.d.ts** file and save it (the comments are required for one of the Gulp tasks to work properly):
-	> //{
-	> //}
+
+```json
+	//{
+	//}
+```
