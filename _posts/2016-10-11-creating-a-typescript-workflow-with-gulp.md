@@ -43,7 +43,8 @@ Create the following files in the typescriptDemo folder:
 
 **Note:** The module versions shown here will certainly change over time. You can visit http://npmjs.org to find the latest version of a given module.
 
-> "devDependencies": {
+```json
+"devDependencies": {
 	    "gulp": "^3.8.11",
 	    "gulp-debug": "^2.0.1",
 	    "gulp-inject": "^1.2.0",
@@ -52,15 +53,17 @@ Create the following files in the typescriptDemo folder:
 	    "gulp-typescript": "^2.5.0",
 	    "gulp-rimraf": "^0.1.1"
 	}
+```
 
 3. Ensure that your command window path is at the root of the **typescriptDemo** folder and run the following command to install the dependencies:
+
 	**npm install**
 
 4. The http://definitelytyped.org site provides a Node.js module named **tsd** that can be used to install TypeScript type definition files that are used to provide enhanced code help in various editors. Install the **tsd** module globally by running the following command:
 
 	**npm install tsd@next -g**
 
-5. un the following command:
+5. Run the following command:
 
 	**tsd init**
 
