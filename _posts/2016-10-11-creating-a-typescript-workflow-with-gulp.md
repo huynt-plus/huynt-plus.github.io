@@ -93,4 +93,4 @@ Create the following files in the typescriptDemo folder:
 	//}
 ```
 
-**Dan Wahlin**
+p>. **Dan Wahlin**
